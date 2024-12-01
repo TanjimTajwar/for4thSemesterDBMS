@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@mysql/xdevapi": "^8.0.35",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "mysql": "^2.18.1"
+  },
+  "name": "jobra",
+  "version": "1.0.0",
+  "description": "No Need",
+  "main": "Account.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanjimTajwar/for4thSemesterDBMS.git"
+  },
+  "author": "Tanjim Tajwar Arnab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanjimTajwar/for4thSemesterDBMS/issues"
+  },
+  "homepage": "https://github.com/TanjimTajwar/for4thSemesterDBMS#readme"
+}
